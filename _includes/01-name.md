@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# James Uchenna
+## First GitHub portfolio
+### What are your thoughts.
